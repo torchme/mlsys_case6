@@ -1,0 +1,10 @@
+/logs.log
+*.log
+/applogs.log
+/notebooks/.ipynb_checkpoints
+/notebooks/catboost_info
+/notebooks/logs.log
+
+*.csv
+/.venv
+/__pycache__
